@@ -2,5 +2,4 @@
 # -*- coding: utf-8 -*-
 # hello.py
 
-def hello():
-	print 'hello, world'
+print 'hello, world'
